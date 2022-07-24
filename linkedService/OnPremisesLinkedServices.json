@@ -1,0 +1,17 @@
+{
+	"name": "OnPremisesLinkedServices",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"connectionString": "integrated security=True;data source=LAPTOP-5TGSV91G;initial catalog=AdventureWorks2019",
+			"userName": "RohanNimje",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJjYmVmMWM4Ny03OTYxLTQyM2EtYjUxNS02OWUyMjAxOTkxYjkiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "Rohan",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
