@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1778
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "DB movement", "DB movement\DB movement.dtproj", "{CDDBBEA6-B069-4595-BF9F-C491102E9DC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDDBBEA6-B069-4595-BF9F-C491102E9DC4}.Development|Default.ActiveCfg = Development
+		{CDDBBEA6-B069-4595-BF9F-C491102E9DC4}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0B12928-1E62-415C-ABA9-9108D8552DA3}
+	EndGlobalSection
+EndGlobal
